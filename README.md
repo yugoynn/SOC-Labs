@@ -1,5 +1,4 @@
-# 🛡️ SOC Labs — Danilo Pires de Oliveira
-
+# 🛡️ SOC Labs
 > Repositório de laboratórios práticos de Blue Team, detecção de ameaças e resposta a incidentes.  
 > Todos os projetos simulam cenários reais de um analista SOC, seguindo o framework **NIST SP 800-61**.
 
@@ -46,12 +45,13 @@ SOC-Labs/
 │
 ├── splunk-bruteforce-detection/
 │   ├── README.md
-│   ├── report.md
 │   ├── queries/
 │   │   └── splunk-queries.md
+│   ├── report/
+│   │   └── report.md
 │   └── screenshots/
 │
-└── (mais projetos em breve)
+└── README.md
 ```
 
 ---
@@ -59,7 +59,7 @@ SOC-Labs/
 ## 📬 Contato
 
 - GitHub: [@yugoynn](https://github.com/yugoynn)
-
+- Linkedin: [@yugoynn](https://www.linkedin.com/in/yugoynn)
 ---
 
 *"Em segurança, a melhor defesa começa com entender como o ataque funciona."*
